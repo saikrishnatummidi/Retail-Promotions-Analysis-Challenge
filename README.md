@@ -20,3 +20,5 @@ Check “ad-hoc-requests.pdf” - this document includes important business ques
 You need to present this to the sales director - hence you need to create a convincing presentation with actionable insights.  
 You can add more research questions and answer them in your presentation that suits your recommendations.  
 Be creative with your presentation, audio/video presentation will have more weightage. 
+
+## Live Dashboard:  
