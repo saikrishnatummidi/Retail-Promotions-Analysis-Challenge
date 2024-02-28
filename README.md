@@ -21,4 +21,4 @@ You need to present this to the sales director - hence you need to create a conv
 You can add more research questions and answer them in your presentation that suits your recommendations.  
 Be creative with your presentation, audio/video presentation will have more weightage. 
 
-## Live Dashboard:  
+## Live Dashboard:  https://www.novypro.com/project/retail-promotions-analysis-challenge-by-codebasics---feb-2024
